@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moon Images App</title>
+</head>
+
+<body>
+    <style>
+        /*css style for image height width*/
+        .abc {
+            border-radius: 20px;
+            height: 200px;
+            width: 250px;
+        }
+
+        .def {
+            border-radius: 20px;
+            height: 200px;
+            width: 250px;
+        }
+    </style>
+    <main>
+        <h1>Moon Images App</h1>
+        <p>
+        <h2>Click here to view <a href="#">more</a> <a
+                href="https://www.bing.com/images/search?view=detailV2&ccid=EFILo8TJ&id=8CEEA751720CFDEEAE962C8641A1E6716AE12BBE&thid=OIP.EFILo8TJZ61cOhO6XelhPwHaE6&mediaurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F11594.jpg&exph=2848&expw=4288&q=moon+images&simid=608038774490470859&FORM=IRPRST&ck=B1005B5E4439F47129A0B8DB8A5188AA&selectedIndex=1&itb=0&cw=1375&ch=664&ajaxhist=0&ajaxserp=0"
+                target="_blank">moon images</a></h2> <!--target blank attribute is used to view on anothe tab-->
+        <!--# is an place holder it will be an dummy link-->
+        </p>
+        <img src="C:\Users\admin\Front-End-Journey\images\moon.jpg" alt="Moon Image">
+        <h3>Moon lists:</h3>
+        <ul> <!--unordered lists-->
+            <li>Full Moon</li>
+            <li>Half Moon</li>
+            <li>Cold Moon</li>
+            <li>Warm Moon</li>
+        </ul>
+        <img class="abc" src="C:\Users\admin\Front-End-Journey\images\moon3.jpg" <br>
+        <h3>Some other lists of Moon:</h3>
+        <ol>
+            <li>New Moon</li>
+            <li>First Quarter</li>
+            <li>Third Quarter</li>
+            <li>Black Moon</li>
+        </ol>
+        <img class="def" src="C:\Users\admin\Front-End-Journey\images\moon2.jpg">
+        <form action="/submit-moon-photo">
+            <label><input type="radio" name="Full Moon-Half Moon">Full Moon</label><br><!--radio button creation-->
+            <label><input type="radio" name="Full Moon-Half Moon">Half
+                Moon</label><br><!--if we use lable only another option will get deslect-->
+            <input type="checkbox">White Moon<br><!--checkbox creation-->
+            <input type="checkbox">Black Moon<br>
+            <input type="checkbox">Pink Moon<br>
+            <!--plceholder is an grey text vision once we started to type it will fade off-->
+            <input type="text" placeholder="Enter the text" required><br>
+            <button type="submit">Submit</button>
+            <!--button creation--><!--if we dont enter any text and clicking submit required is used -->
+        </form>
+
+
+
+
+
+
+    </main>
+
+</body>
+
+</html>
