@@ -1,0 +1,26 @@
+<!--ADDING ONLICK BUTTON IN JAVASCRIPT-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adding onclick button in JavaScript</title>
+</head>
+
+<body>
+    <div class="box">
+        <h1>Hello World!</h1>
+    </div>
+    <button onclick="changeColor('blue')">Blue</button>
+    <button onclick="changeColor('red')">Red</button>
+    <button onclick="changeColor('green')">Green</button>
+    <script>
+        function changeColor(color) {
+            document.querySelector('.box').style.color = color;
+        }
+    </script>
+
+</body>
+
+</html>
