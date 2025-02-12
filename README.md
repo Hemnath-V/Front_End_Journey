@@ -12,3 +12,6 @@ Styled webpage elements with background colors, text alignment, font properties,
 
 ## Day 4: Java Script Basics
 Explored JavaScript basics, including variables, data types, objects, arrays, functions, and console logging for dynamic web development.
+
+## Day 5: JavaScript Event Handling
+Implemented an onclick button to dynamically change text color using JavaScript functions
