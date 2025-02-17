@@ -15,3 +15,6 @@ Explored JavaScript basics, including variables, data types, objects, arrays, fu
 
 ## Day 5: JavaScript Event Handling
 Implemented an onclick button to dynamically change text color using JavaScript functions
+
+## Day 6: Java Script Asynchronous
+Asynchronous Concepts with examples
