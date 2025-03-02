@@ -19,8 +19,5 @@ Implemented an onclick button to dynamically change text color using JavaScript 
 ## Day 6: Java Script Asynchronous
 Asynchronous Concepts with examples
 
-## Day 7: Blurry Loading JS Mini Project
-Build small project using html css js basics
-
-## Day 8: CSS Positioning
+## Day 7: CSS Positioning
 Positioning Concepts with examples
