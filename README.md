@@ -21,3 +21,7 @@ Asynchronous Concepts with examples
 
 ## Day 7: CSS Positioning
 Positioning Concepts with examples
+
+## Day 8: CSS Flexbox  
+Explored CSS Flexbox concepts, including flex container properties, flex items alignment, justify-content, align-items, and responsive layouts.
+
