@@ -25,3 +25,7 @@ Positioning Concepts with examples
 ## Day 8: CSS Flexbox  
 Explored CSS Flexbox concepts, including flex container properties, flex items alignment, justify-content, align-items, and responsive layouts.
 
+## Day 10: Bootstrap Basics
+Introduced Bootstrap for responsive web design.
+Explored grid systems, buttons, cards, and navigation bars.
+
