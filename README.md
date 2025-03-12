@@ -29,3 +29,6 @@ Explored CSS Flexbox concepts, including flex container properties, flex items a
 Introduced Bootstrap for responsive web design.
 Explored grid systems, buttons, cards, and navigation bars.
 
+## Day 11 - 13: Netflix Landing Page Clone 
+Started building a Netflix landing page clone. Created the basic HTML structure, including the header, hero section, features, and footer. Used semantic HTML elements for better readability and accessibility.
+
