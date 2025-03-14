@@ -32,3 +32,6 @@ Explored grid systems, buttons, cards, and navigation bars.
 ## Day 11 - 13: Netflix Landing Page Clone 
 Started building a Netflix landing page clone. Created the basic HTML structure, including the header, hero section, features, and footer. Used semantic HTML elements for better readability and accessibility.
 
+## Day 14 - 15: CSS Grid, Before & After, Transformations
+Explored CSS variables, ::before & ::after pseudo-elements, and list styling with markers & emoji icons. Implemented transformations like translate, rotate, and scale for dynamic effects.
+
