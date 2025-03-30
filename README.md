@@ -18,6 +18,7 @@ Implemented an onclick button to dynamically change text color using JavaScript 
 
 ## Day 6: Java Script Asynchronous
 Asynchronous Concepts with examples
+<<<<<<< Updated upstream
 
 ## Day 7: CSS Positioning
 Positioning Concepts with examples
@@ -35,3 +36,5 @@ Started building a Netflix landing page clone. Created the basic HTML structure,
 ## Day 14 - 15: CSS Grid, Before & After, Transformations
 Explored CSS variables, ::before & ::after pseudo-elements, and list styling with markers & emoji icons. Implemented transformations like translate, rotate, and scale for dynamic effects.
 
+=======
+>>>>>>> Stashed changes
