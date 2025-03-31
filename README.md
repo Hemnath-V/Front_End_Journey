@@ -36,5 +36,12 @@ Started building a Netflix landing page clone. Created the basic HTML structure,
 ## Day 14 - 15: CSS Grid, Before & After, Transformations
 Explored CSS variables, ::before & ::after pseudo-elements, and list styling with markers & emoji icons. Implemented transformations like translate, rotate, and scale for dynamic effects.
 
-=======
->>>>>>> Stashed changes
+## Day 16: React Introduction & Basics
+Learned about React and its core concepts.
+Understood how React renders components efficiently using the Virtual DOM.
+
+## Day 17: React Components & Types
+Explored React components and their importance in UI development.
+Learned about functional components and class components.
+
+
