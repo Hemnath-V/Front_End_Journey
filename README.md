@@ -44,4 +44,8 @@ Understood how React renders components efficiently using the Virtual DOM.
 Explored React components and their importance in UI development.
 Learned about functional components and class components.
 
+## Day 18: JSX Basics
+Created a simple React component using JSX.
+Used JSX expressions to display dynamic values inside HTML elements.
+Applied inline and external CSS styles in JSX.
 
