@@ -49,3 +49,6 @@ Created a simple React component using JSX.
 Used JSX expressions to display dynamic values inside HTML elements.
 Applied inline and external CSS styles in JSX.
 
+## Day 19: React Props
+Learned how to pass data from a parent component to a child component using props.
+Built a component that receives a title prop and displays it dynamically inside JSX.
