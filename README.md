@@ -52,3 +52,14 @@ Applied inline and external CSS styles in JSX.
 ## Day 19: React Props
 Learned how to pass data from a parent component to a child component using props.
 Built a component that receives a title prop and displays it dynamically inside JSX.
+
+## Day 20: React useState Hook
+Explored the useState hook for managing state in functional components.
+Practiced updating state on button clicks and displaying real-time changes in the UI.
+Demonstrated dynamic rendering based on state
+
+## Day 21: React Event Handling
+Practiced handling events in React using onChange and other event attributes.
+Captured user input and displayed the updated value instantly using state.
+Handled user input using onChange
+Displayed live updates as the user types
