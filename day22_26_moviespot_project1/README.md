@@ -11,5 +11,4 @@ This project is part of my Front-End Journey.
 - Movie APIs (TMDb or others)
 - Axios / Fetch for API calls
 
-## 📁 Project Structure
 
