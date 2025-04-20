@@ -62,4 +62,4 @@ Demonstrated dynamic rendering based on state
 Practiced handling events in React using onChange and other event attributes.
 Captured user input and displayed the updated value instantly using state.
 Handled user input using onChange
-Displayed live updates as the user type.
+Displayed live updates as the user types
