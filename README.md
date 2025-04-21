@@ -63,3 +63,30 @@ Practiced handling events in React using onChange and other event attributes.
 Captured user input and displayed the updated value instantly using state.
 Handled user input using onChange
 Displayed live updates as the user types
+
+## Day 22: Project Setup & Folder Structure
+Initialized the project folder structure with index.html, style.css, and script.js.
+Planned the UI layout for MovieSpot (Navbar, Search, Cards, Footer).
+
+## Day 23: HTML Structure
+Created the base HTML structure for the homepage.
+Added a header with logo and search bar.
+Designed placeholder sections for movie cards.
+
+## Day 24: CSS Styling
+Styled the entire layout using modern CSS practices.
+Added a responsive flexbox grid for movie cards.
+Applied hover effects and transitions for better UX.
+
+## Day 25: JavaScript Functionality
+Integrated TMDb API to fetch real-time movie data.
+Displayed popular movies dynamically as cards using fetch().
+Implemented search functionality with API query results.
+
+## Day 26: Final Touches & Deployment
+Handled edge cases for empty searches and API errors.
+Improved UI responsiveness on different screen sizes.
+Deployed the project using GitHub Pages.
+Cleaned up and commented code for better readability.
+
+
