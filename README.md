@@ -87,6 +87,6 @@ Implemented search functionality with API query results.
 Handled edge cases for empty searches and API errors.
 Improved UI responsiveness on different screen sizes.
 Deployed the project using GitHub Pages.
-Cleaned up and commented code for better readability
+Cleaned up and commented code for better readability.
 
 
